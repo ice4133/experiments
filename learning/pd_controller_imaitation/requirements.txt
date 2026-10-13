@@ -1,0 +1,5 @@
+# PyTorch 已安装在 conda 的 learning 环境中，这里只列出本项目其余依赖。
+numpy>=1.24
+matplotlib>=3.7
+pytest>=8.0
+

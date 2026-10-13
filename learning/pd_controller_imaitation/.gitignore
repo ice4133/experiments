@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+artifacts/*.pt
+artifacts/*.png
+artifacts/*.json
+
